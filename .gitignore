@@ -1,3 +1,7 @@
+evaluation_output/*
+tmp/*
+analysis/*
+data/*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
